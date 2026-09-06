@@ -131,7 +131,7 @@ export const invitationRefs = {
   "2ED9MT": {
     "groupName": "Grupo 26",
     "rsvpCode": "PTY46",
-    "label": "Melanie Paz + Luis"
+    "label": "Melanie Paz + Luis Pinto"
   },
   "GMEQ4A": {
     "groupName": "Grupo 27",
